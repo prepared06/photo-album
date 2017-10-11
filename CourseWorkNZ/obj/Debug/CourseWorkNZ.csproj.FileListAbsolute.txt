@@ -1,0 +1,24 @@
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.exe.config
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.exe
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.pdb
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.csprojResolveAssemblyReference.cache
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.add_photo.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.Form1.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.Properties.Resources.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.csproj.GenerateResource.Cache
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.exe
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.pdb
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.full_size.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.search.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.exe.config
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.exe
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\bin\Debug\CourseWorkNZ.pdb
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.csprojResolveAssemblyReference.cache
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.add_photo.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.Form1.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.full_size.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.Properties.Resources.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.search.resources
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.csproj.GenerateResource.Cache
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.exe
+D:\Enjoy\Projects\CourseWorkNZ\CourseWorkNZ\obj\Debug\CourseWorkNZ.pdb

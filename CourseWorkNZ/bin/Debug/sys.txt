@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfPhoto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Photo>
+    <Name>IMAG0216.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0216.jpg</Path>
+    <Data>2015-07-30T10:49:13.67+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta0.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0217.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0217.jpg</Path>
+    <Data>2015-07-30T10:49:13.86+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta1.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0218.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0218.jpg</Path>
+    <Data>2015-07-30T10:49:14.03+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta2.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0220.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0220.jpg</Path>
+    <Data>2015-07-30T10:49:14.2+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta3.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0221.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0221.jpg</Path>
+    <Data>2015-07-30T10:49:14.35+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta4.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0222.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0222.jpg</Path>
+    <Data>2015-07-30T10:49:14.51+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta5.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0224.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0224.jpg</Path>
+    <Data>2015-07-30T10:49:14.68+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta6.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0227.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0227.jpg</Path>
+    <Data>2015-07-30T10:49:14.86+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta7.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0233.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0233.jpg</Path>
+    <Data>2015-07-30T10:49:15.04+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta8.txt</Path_Description>
+  </Photo>
+  <Photo>
+    <Name>IMAG0234.jpg</Name>
+    <Path>D:\Enjoy\фото папы\IMAG0234.jpg</Path>
+    <Data>2015-07-30T10:49:15.2+03:00</Data>
+    <Path_Description>D:\Enjoy\фото папы\meta9.txt</Path_Description>
+  </Photo>
+</ArrayOfPhoto>
